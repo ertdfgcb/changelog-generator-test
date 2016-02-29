@@ -1,1 +1,2 @@
 # changelog-generator-test
+test
